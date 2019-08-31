@@ -1,0 +1,7 @@
+C:\Users\nhcoy\source\repos\COURSE\COURSE\bin\Debug\COURSE.exe.config
+C:\Users\nhcoy\source\repos\COURSE\COURSE\bin\Debug\COURSE.exe
+C:\Users\nhcoy\source\repos\COURSE\COURSE\bin\Debug\COURSE.pdb
+C:\Users\nhcoy\source\repos\COURSE\COURSE\obj\Debug\COURSE.csprojAssemblyReference.cache
+C:\Users\nhcoy\source\repos\COURSE\COURSE\obj\Debug\COURSE.csproj.CoreCompileInputs.cache
+C:\Users\nhcoy\source\repos\COURSE\COURSE\obj\Debug\COURSE.exe
+C:\Users\nhcoy\source\repos\COURSE\COURSE\obj\Debug\COURSE.pdb
